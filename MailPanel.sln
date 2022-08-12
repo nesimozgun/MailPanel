@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MailPanel", "MailPanel\", "{0350E9C0-034C-4896-8CC9-7E7427B92728}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64797"
+		Debug.AspNetCompiler.PhysicalPath = "MailPanel\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64797\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64797"
+		Release.AspNetCompiler.PhysicalPath = "MailPanel\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64797\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64797"
+		SlnRelativePath = "MailPanel\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0350E9C0-034C-4896-8CC9-7E7427B92728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0350E9C0-034C-4896-8CC9-7E7427B92728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141D46A5-EF7F-42F0-8060-0F2F854EF9C5}
+	EndGlobalSection
+EndGlobal
